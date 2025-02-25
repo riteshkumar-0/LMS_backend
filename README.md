@@ -65,7 +65,7 @@ Follow these steps to run the project locally.
    cd frontend
    npm install
 
-3. **Open your browser and navigate:**
+3. **Open your browser and navigate**
    
     
 
