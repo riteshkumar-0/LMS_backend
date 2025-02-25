@@ -41,7 +41,7 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username](https://github.com/pappukr034/LMS)/lms.git
+   git clone [https://github.com/your-username](https://github.com/riteshkumar-0/LMS_Backend.git)/lms.git
    cd LMS
 2. **Install server dependencies:**
    ```bash
@@ -66,8 +66,8 @@ Follow these steps to run the project locally.
    npm install
 
 3. **Open your browser and navigate to:**
-   ```bash
-    http://localhost:5171/
+   
+    
 
 
 ### Configuration
@@ -80,3 +80,4 @@ Follow these steps to run the project locally.
 
 
 
+# LMS_Backend
