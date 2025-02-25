@@ -1,7 +1,6 @@
 # Learning Management System (LMS)
 
-![LMS Homepage](https://github.com/pappukr034/SkillRize/blob/main/Screenshot%202024-07-23%20213505.png)
-![LMS Homepage](https://github.com/pappukr034/SkillRize/blob/main/Screenshot%202024-07-23%20213543.png)
+
 
 ## Overview
 
